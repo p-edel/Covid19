@@ -19,8 +19,21 @@ The new Coronavirus (Covid-19) is spreading quickly - we want to analyse if it f
 
 ## Evaluatation
 - the fitted exponential Model was used to make a projection into the future
-
+- we can se
 
 ## Code
-the python code can be found in the following file:
-- covid19_analysis.ipynb
+
+libraries used:
+- data wrangling: numpy and pandas
+- Modelling: sklearn and scipy 
+- plots: matplotlib
+
+files:
+- covid19_analysis.ipynb: contains the python code
+- /JohnsHopkins Data/csse_covid_19_time_series: timeseries data from JHU
+- /Bilder: contains images generated from analysis
+
+## acknowledgements
+- Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
+- https://github.com/CSSEGISandData/COVID-19
+- https://systems.jhu.edu/research/public-health/ncov/
