@@ -1,6 +1,6 @@
 # Analysis of Covid-19 data
 
-## Current situation / Motivation
+## Current situation
 The new Coronavirus (Covid-19) is spreading quickly and has been declared a pandemic by the WHO on 11 March. While in China the numbers are allready falling after drastic governemnt measures, the Rest of the World is still observing an exponential trend.
 
 ## Motivation 
@@ -23,7 +23,6 @@ We want to analyse if the spreading of the virus really follows an exponential t
 
 ## Evaluatation
 - the fitted exponential Model was used to make a projection into the future
-- we can se
 
 ## Results
 - A fit of a simple exponential model could be perfrmed with and R^2 of 0.95
