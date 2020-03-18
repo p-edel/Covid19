@@ -24,7 +24,7 @@ We want to analyse if the spreading of the virus really follows an exponential t
 ## Evaluatation
 - the fitted exponential Model was used to make a projection into the future
 
-## Results
+## Results / Summary
 - A fit of a simple exponential model could be perfrmed with and R^2 of 0.95
 - A 14-day forecast schows, that the trend could lead to a seven-fold increase of infection numbers in only quarter of the time that has passed since the outbreak.
 
